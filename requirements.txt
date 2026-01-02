@@ -1,0 +1,26 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pyyaml
+
+# Time Series
+statsmodels
+
+# Deep Learning
+tensorflow
+
+# Deployment
+fastapi
+uvicorn
+
+# Testing
+pytest
+
+# Optional (for dashboard)
+streamlit
+
+# Optional (for profiling)
+pandas-profiling
